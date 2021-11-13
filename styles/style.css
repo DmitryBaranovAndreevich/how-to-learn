@@ -34,6 +34,7 @@
 @import url(../blocks/techniques/__item/__cards/techniques__item__cards_width.css);
 @import url(../blocks/techniques/__item/__title/techniques__item__title_position.css);
 @import url(../blocks/techniques/__item/__image/techniques__item__image_size.css);
+@import url(../blocks/techniques/__item/__image/techniques__item__image_radius.css);
 @import url(../blocks/techniques/__item/__content/techniques__item__content_font.css);
 /* блок /techniques */
 /* блок video */
