@@ -1,0 +1,5 @@
+.footer__column_copyright {
+  box-sizing: inherit;
+  flex-grow: .5;
+  justify-content: space-between;
+}

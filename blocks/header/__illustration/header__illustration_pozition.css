@@ -1,0 +1,6 @@
+.header__illustration_pozition {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  z-index: 1;
+}

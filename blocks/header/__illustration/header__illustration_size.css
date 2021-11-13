@@ -1,0 +1,6 @@
+.header__illustration_size {
+  box-sizing: inherit;
+  width: 765px;
+  height: 608px;
+  object-fit: cover;
+}

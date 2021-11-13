@@ -1,0 +1,11 @@
+.feyman__link_position {
+  box-sizing: inherit;
+  position: absolute;
+  right: 48px;
+  top: 50%;
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+}
+
+
