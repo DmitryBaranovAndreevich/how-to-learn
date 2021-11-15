@@ -1,0 +1,11 @@
+.footer__column-link {
+  display: block;
+  font:18px/18px 'Inter', 'Arial', sans-serif ;
+  font-weight: 400;
+  color: white;
+  text-decoration: none;
+ }
+
+ .footer__column-link + .footer__column-link {
+   margin-top: 10px;
+ }

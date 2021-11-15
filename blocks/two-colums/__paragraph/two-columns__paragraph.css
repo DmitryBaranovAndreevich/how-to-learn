@@ -1,0 +1,9 @@
+.two-columns__paragraph {
+  font:24px/34px 'Inter', 'Arial', sans-serif ;
+  font-weight: 400;
+  margin: 0;
+}
+
+.two-columns__paragraph + .two-columns__paragraph {
+  margin-top: 30px;
+}

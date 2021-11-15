@@ -1,9 +1,0 @@
-.header__subtitle_position {
- box-sizing: inherit;
- width: 388px;
- position: absolute;
- bottom: 30px;
- left: 64px;
- z-index: 4;
- padding: 0;
-}

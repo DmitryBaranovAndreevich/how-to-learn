@@ -1,7 +1,5 @@
 .techniques {
-  box-sizing: border-box;
   width: 80%;
-  align-items: center;
   margin: 0 auto;
   padding-top: 100px;
 }

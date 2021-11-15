@@ -1,0 +1,8 @@
+.cards__item  {
+  box-sizing: border-box;
+  flex-basis: 240px;
+}
+
+.cards__item:not(:nth-child(3)) {
+  margin-right: 100px;
+}

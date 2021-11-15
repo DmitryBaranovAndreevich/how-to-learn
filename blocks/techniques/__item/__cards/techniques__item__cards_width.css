@@ -1,8 +1,0 @@
-.techniques__item__cards_width  {
-  box-sizing: border-box;
-  flex-basis: 240px;
-}
-
-.techniques__item__cards_width:not(:nth-child(3)) {
-  margin-right: 100px;
-}

@@ -1,0 +1,18 @@
+.feyman__link {
+  box-sizing: inherit;
+  position: absolute;
+  right: 48px;
+  top: 50%;
+  text-decoration: none;
+  font:36px/51px 'Inter', 'Arial', sans-serif;
+  font-weight: 400;
+  color: #2f80ed;
+}
+
+.feyman__link:hover {
+  opacity: .7;
+}
+
+
+
+

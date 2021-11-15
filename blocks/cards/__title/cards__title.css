@@ -1,0 +1,6 @@
+.cards__title {
+  text-align: center;
+  font:24px/1.15 'Inter', 'Arial', sans-serif ;
+  font-weight: 700;
+  margin-bottom: 16px;
+}
