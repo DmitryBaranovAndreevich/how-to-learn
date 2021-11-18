@@ -1,7 +1,9 @@
 .header__title {
   width: 730px;
-  margin: 64px;
+  margin-block-start: 0;
+  margin-block-end: 0;
+  position: relative;
   z-index: 4;
   font:102px/96px 'Inter', 'Arial', sans-serif ;
   font-weight: 700;
-}
+  }

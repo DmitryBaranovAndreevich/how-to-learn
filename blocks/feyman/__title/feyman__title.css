@@ -1,7 +1,9 @@
 .feyman__title {
   width: 648px;
   text-align: center;
-  margin: 0 auto 70px;
   font: 120px/1.15 'Inter', 'Arial', sans-serif;
   font-weight: 700;
+  margin-block-start: 0;
+  margin-block-end: 0;
+  margin: 0 auto 70px;
 }

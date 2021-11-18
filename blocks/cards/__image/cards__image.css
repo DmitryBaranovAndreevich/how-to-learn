@@ -4,6 +4,5 @@
   height: 160px;
   object-fit: cover;
   margin: 60px 40px 43px;
-  border: 1px solid transparent;
-  border-radius: 160px;
+  border-radius: 50%;
 }

@@ -1,6 +1,7 @@
 .footer__autor {
   font:18px/25px 'Inter', 'Arial', sans-serif ;
   font-weight: 400;
+  margin-block-start: 0;
+  margin-block-end: 0;
   margin: 18px 0;
-
 }

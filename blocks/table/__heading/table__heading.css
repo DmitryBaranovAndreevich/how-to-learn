@@ -1,4 +1,6 @@
 .table__heading {
   font:24px/1.15 'Inter', 'Arial', sans-serif ;
   font-weight: 700;
+  margin-block-start: 0;
+  margin-block-end: 0;
 }

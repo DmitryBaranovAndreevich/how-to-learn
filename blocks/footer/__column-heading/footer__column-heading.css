@@ -1,5 +1,6 @@
 .footer__column-heading {
   font:18px/18px 'Inter', 'Arial', sans-serif ;
   font-weight: 700;
-  margin: 0;
+  margin-block-start: 0;
+  margin-block-end: 0;
 }

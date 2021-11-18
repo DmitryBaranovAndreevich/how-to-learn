@@ -1,0 +1,7 @@
+.video__iframes-list {
+  list-style-type: none;
+}
+
+.video__iframes-list:not(:last-child) {
+  margin-right: 20px;
+}

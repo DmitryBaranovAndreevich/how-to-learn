@@ -1,5 +1,5 @@
 .feyman {
-  height: 890px;
+  min-height: 890px;
   box-sizing: border-box;
   position: relative;
   padding-top: 100px;
